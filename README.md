@@ -1,2 +1,2 @@
-# codewars-List_Filtering
-My solution for codewars List Filtering task
+# codewars
+My solution for codewars challenges
